@@ -1,0 +1,9 @@
+[project]
+name = "git-refspec-explainer"
+version = "1.0.0"
+description = "Read-only Git refspec parser and mapping explainer"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"
